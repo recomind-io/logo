@@ -1,3 +1,3 @@
 # RecoMind logo
 
-Officual logo of RecoMind
+Official logo of RecoMind
