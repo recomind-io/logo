@@ -18,9 +18,8 @@ Official logo of RecoMind
 - RGB: 40, 126, 247
 - HSV: 215.1, 83.8, 96.9
 
-
 ### Dark blue:
 
-- HTML: 
-- RGB: 
-- HSV:
+- HTML: 174060
+- RGB: 23, 64, 96
+- HSV: 206.3, 76.0, 37.6
